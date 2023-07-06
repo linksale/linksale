@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linksale
-- 👀 I’m interested in System Analyst.
-- - 🌱 I’m currently ...
+- 👀 I’m interested in System Analyst and Developer.
+-  🌱 I’m currently ...
 - 💞️ I’m looking to collaborate on SAP ABAP ALV'S REPORTS and More, look my repository
 - - 📫 How to reach me devtrabalho@hotmail.com
 
@@ -38,3 +38,5 @@
 
 </p>
 --->
+
+><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
