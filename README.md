@@ -3,6 +3,13 @@
 -  🌱 I’m currently ...
 - 💞️ I’m looking to collaborate on SAP ABAP ALV'S REPORTS and More, look my repository
 - - 📫 How to reach me devtrabalho@hotmail.com
+  - ### Let's connect? 🤝
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lincoln-sales-344844281/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+
+</p>
 
 <!---
 ### 🚀 Languages and Tools:</summary>
@@ -37,10 +44,4 @@
 <img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" />
 
 
-### Let's connect? 🤝
-<p align="left">
 
-<a href="https://www.linkedin.com/in/lincoln-sales-344844281/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-
-</p>
